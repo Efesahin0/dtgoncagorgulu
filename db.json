@@ -1,0 +1,79 @@
+
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "İlk Projem",
+      "description": "Bu benim ilk projem.",
+      "approved" : true
+    },
+    {
+      "id": 2,
+      "name": "İkinci Projem",
+      "description": "Bu da ikinci projem.",
+      "approved" : true
+    }
+ 
+  ] , 
+
+  "testimonials": [
+    {
+      "id" : 1,
+      "name" : "Efe Şahin",
+      "description" : "yorum1" , 
+      "avatar" : "https://i.pravatar.cc/150?img=3" ,
+      "yildiz" : "5"
+
+    },
+     {
+      "id" : 2,
+      "name" : "Selin Sargın",
+      "description" : "yorum2" , 
+      "avatar" : "https://i.pravatar.cc/150?img=3" ,
+      "yildiz" : "5"
+
+    },
+     {
+      "id" : 3,
+      "name" : "Gonca Görgülü",
+      "description" : "yorum3" , 
+      "avatar" : "https://i.pravatar.cc/150?img=3" ,
+      "yildiz" : "5"
+
+    }
+  ],
+   "members" :[
+    {
+      "id" : 1,
+      "name" : "Efe Şahin",
+      "job" : "Bilgisayar Mühendisliği",
+      "img" : "operasyon1"
+
+
+
+    },
+     {
+      "id" : 2,
+      "name" : "Selin Sargın",
+      "job" : "Bilgisayar Mühendisliği",
+      "img" : " "
+
+
+
+    },
+     {
+      "id" : 3,
+      "name" : "Gonca Görgülü",
+      "job" : "Diş Hekimliği",
+      "img" : " "
+
+
+
+    }
+
+
+
+    ]
+
+
+}
